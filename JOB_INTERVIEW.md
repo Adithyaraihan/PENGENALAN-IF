@@ -50,8 +50,10 @@ bla bla bla
 
 
 ## 3. Struktur Data
+![alt text](?raw=true)
 
 ## 4. Arsitektur Sistem
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/PI_INSPIRASI.png)
 
 ## 5. Teknologi, Library, dan Framework
 
