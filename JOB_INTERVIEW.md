@@ -28,6 +28,7 @@ bla bla bla
 - Desain modern
 - Warna: mode malam/hitam/abu-abu
 - Inspirasi Desain
+- ![inspirasi ](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/PI_INSPIRASI.png)
 
 
 
