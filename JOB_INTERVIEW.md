@@ -36,6 +36,7 @@ bla bla bla
 
 | Sebagai   | Saya ingin bisa                         | Sehingga                                            | Prioritas   |
 | --------- | --------------------------------------- | -------------------------------------------------- | ----------  |
+| pengguna  |Mengupload lagu dari direktori           |bisa mendengarkan lagu yang tidak tersedia di aplikasi|⭐⭐⭐⭐⭐|
 | Pengguna  | Memutar musik                          | Bisa mendengarkan musik                             | ⭐⭐⭐⭐⭐   |
 | Pengguna  | Mencari lagu                           | Bisa memutar lagu yang saya inginkan               | ⭐⭐⭐       |
 | Pengguna  | Membuat playlist                        | Bisa mengelompokan lagu yang disukai                | ⭐⭐⭐       |
@@ -53,7 +54,7 @@ bla bla bla
 ![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-140037.png)
 
 ## 4. Arsitektur Sistem
-![alt text]([https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-145750.png](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-145750.png))
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-145750.png)
 
 ## 5. Teknologi, Library, dan Framework
 
