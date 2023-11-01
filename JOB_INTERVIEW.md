@@ -50,10 +50,10 @@ bla bla bla
 
 
 ## 3. Struktur Data
-![alt text](?raw=true)
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-140037.png)
 
 ## 4. Arsitektur Sistem
-![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/PI_INSPIRASI.png)
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-145750.png)
 
 ## 5. Teknologi, Library, dan Framework
 
