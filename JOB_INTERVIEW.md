@@ -28,7 +28,7 @@ bla bla bla
 - Desain modern
 - Warna: mode malam/hitam/abu-abu
 - Inspirasi Desain
-- ![inspirasi ](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/PI_INSPIRASI.png)
+- ![inspirasi ](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/PI_INSPIRASI.png)
 
 
 
@@ -50,17 +50,17 @@ bla bla bla
 
 
 ## 3. Struktur Data
-![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-140037.png)
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-140037.png)
 
 ## 4. Arsitektur Sistem
-![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-145750.png)
+![alt text]([https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/mermaid-diagram-2023-10-22-145750.png](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-145750.png))
 
 ## 5. Teknologi, Library, dan Framework
 
 bla bla bla
 
 ## 6. Desain User Experience dan User Interface
-![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/inimi.png)
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/inimi.png)
 
 
 ## 7. Demonstrasi Video
