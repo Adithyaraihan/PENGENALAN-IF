@@ -60,6 +60,7 @@ bla bla bla
 bla bla bla
 
 ## 6. Desain User Experience dan User Interface
+![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/inimi.png)
 
 
 ## 7. Demonstrasi Video
