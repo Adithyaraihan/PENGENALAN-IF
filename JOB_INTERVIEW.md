@@ -200,7 +200,7 @@ SDLC adalah proses yang digunakan oleh tim pengembangan untuk membuat perangkat 
 3.	Pengembangan: Tahap ini melibatkan pengembangan kode sumber aplikasi Anda. saya menggunakan bahasa pemrograman java dan memastikan bahwa aplikasi berfungsi dengan baik.
 4.	Pengujian: Tahap ini melibatkan pengujian aplikasi untuk memastikan bahwa aplikasi berfungsi dengan benar 
 5.	Operasi: Tahap ini mecoba menjalankan aplikasi Anda secara terus-menerus dan memastikan bahwa aplikasi itu berfungsi dengan baik.
-6.	Pemeliharaan: Tahap ini melibatkan memperbarui aplikasi dan 
+6.	Pemeliharaan: Tahap ini melibatkan memperbarui aplikasi dan memperbaiki bug yang muncul.
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
