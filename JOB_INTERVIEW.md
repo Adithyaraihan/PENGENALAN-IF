@@ -194,7 +194,14 @@ Kotlin dan Java
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
----
+SDLC adalah proses yang digunakan oleh tim pengembangan untuk membuat perangkat lunak yang luar biasa dan meminimalkan risiko. 
+1.	Perencanaan & Analisis: Tahap pertama SDLC adalah tahap perencanaan proyek. Tahap ini adalah mengevaluasi kelayakan membuat produk, kebutuhan pengguna, dll. Untuk memutuskan dengan benar apa yang harus dibuat, atau tidak, dan apa yang harus dibuat terlebih dahulu dibuat, saya menggunakan kerangka prioritas fitur .
+2.	Desain: Tahap ini melibatkan merancang arsitektur perangkat lunak dan memilih teknologi yang tepat untuk membangun aplikasi. Pada tahap ini juga saya merancang antarmuka pengguna dan bagaimana aplikasi akan berfungsi.
+3.	Pengembangan: Tahap ini melibatkan pengembangan kode sumber aplikasi Anda. saya menggunakan bahasa pemrograman java dan memastikan bahwa aplikasi berfungsi dengan baik.
+4.	Pengujian: Tahap ini melibatkan pengujian aplikasi untuk memastikan bahwa aplikasi berfungsi dengan benar 
+5.	Operasi: Tahap ini mecoba menjalankan aplikasi Anda secara terus-menerus dan memastikan bahwa aplikasi itu berfungsi dengan baik.
+6.	Pemeliharaan: Tahap ini melibatkan memperbarui aplikasi dan 
+
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
 **Penyimpanan Data Pengguna:**
