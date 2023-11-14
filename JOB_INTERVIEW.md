@@ -8,8 +8,8 @@
 
 
 ## 1.2. Deksripsi Teknologi Informasi
-
-bla bla bla
+  Teknologi Informasi (TI), atau dalam bahasa Inggris dikenal dengan istilah Information technology (IT) adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi. TI menyatukan komputasi dan komunikasi berkecepatan tinggi untuk data, suara, dan video. Contoh dari Teknologi Informasi bukan hanya berupa komputer pribadi, tetapi juga telepon, TV, peralatan rumah tangga elektronik, dan peranti genggam modern (misalnya ponsel). 
+  teknologi informasi baik secara implisit maupun eksplisit tidak sekedar berupa teknologi komputer, tetapi juga mencakup teknologi komunikasi. Dengan kata lain, yang disebut teknologi informasi adalah gabungan antara teknologi komputer dan teknologi komunikasi.
 
 ## 1.3. Branding
 - **Merk**: Inimikah
@@ -41,11 +41,22 @@ bla bla bla
 | Pengguna  | Mencari lagu                           | Bisa memutar lagu yang saya inginkan               | ⭐⭐⭐       |
 | Pengguna  | Membuat playlist                        | Bisa mengelompokan lagu yang disukai                | ⭐⭐⭐       |
 | Pengguna  | Melewati lagu                          | Bisa melewati lagu yang tidak ingin didengar        | ⭐⭐⭐⭐⭐   |
-| Pengguna  | Mem-pause lagu                         | Menghentikan sementara lagu                        | ⭐⭐⭐⭐⭐   |
+| Pengguna  | Mem-pause lagu                         | Menghentikan sementara lagu                          | ⭐⭐⭐⭐⭐   |
+| pengguna | membuat akun                           | membackup data data yamg ada                         | ⭐⭐⭐         |
+| pengguna | mengikuti pengguna lain                | melihat aktivitas pengguna tersebut                   | ⭐         |
+| pengguna  | menddengarkan lagu bersama             | mendengarkan lagu yang sama di dua perangkat yang berbeda | ⭐         |
+| pengguna | mendownload lagu                        | mendengarkan lagu saat offline                     | ⭐         |
+| pengguna | melihat riwayat lagu yang di putar     | mendengarkan kembali lagu yang sudah di putar      | ⭐         |
 | Developer | Membuat lirik lagu                     | Pengguna bisa membaca lirik lagu                   | ⭐⭐         |
 | Developer | Memutar lagu berikutnya secara otomatis | Pengguna tidak perlu lagi memutar lagu secara otomatis | ⭐⭐⭐⭐     |
 | Developer | Membuat daftar putar                   | Pengguna bisa mengatur sendiri daftar kagu yang akan diputar | ⭐⭐⭐     |
 | Developer | Membuat album lagu penyanyi             | Pengguna bisa memutar khusus lagu dari penyanyi yang diinginkan | ⭐         |
+| Developer | Membuat playlist top yang paling sering didengar banyak orang   |memberitahu pengguna lagu yang sedang top  | ⭐         |
+| Developer | Membuat top lagu bulanan yang sering didengar pengguna | memberitahu pengguna lagu yang sering ia dengar | ⭐         |
+| Developer | Membuat daftar khusus lagu sesuai genre             | pengguna bisa menyesuaikan genre lagu apa yang ingin ia dengar | ⭐         |
+
+
+
 
 
 
