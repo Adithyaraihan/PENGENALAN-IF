@@ -56,11 +56,6 @@
 | Developer | Membuat daftar khusus lagu sesuai genre             | pengguna bisa menyesuaikan genre lagu apa yang ingin ia dengar | ⭐         |
 
 
-
-
-
-
-
 ## 3. Struktur Data
 ![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-140037.png)
 
@@ -68,8 +63,24 @@
 ![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/mermaid-diagram-2023-10-22-145750.png)
 
 ## 5. Teknologi, Library, dan Framework
+## Teknologi Utama
 
-bla bla bla
+- **IDE (Integrated Development Environment):** [Android Studio](https://developer.android.com/studio) adalah IDE yang digunakan untuk pengembangan aplikasi. IDE ini menyediakan alat untuk desain, pengkodean, debugging, dan profil aplikasi.
+
+- **Bahasa Pemrograman:**
+  - **Java:** Bahasa pemrograman untuk pengembangan Android.
+  - **Kotlin:** Bahasa pemrograman modern yang sepenuhnya mendukung Android.
+
+## Library/Framework
+
+- **MediaPlayer API:** Untuk pemutaran musik, saya menggunakan MediaPlayer API yang telah disediakan oleh Android. Ini menyediakan kontrol pemutaran dasar seperti play, pause, stop, dan kontrol volume.
+
+- **Retrofit atau Volley:** Retrofit digunakan untuk mengambil data musik dari server. Retrofit dapat digunakan untuk membuat permintaan HTTP dengan mudah dan efisien.
+
+- **Glide atau Picasso:** Untuk menangani tampilan gambar (seperti cover album), saya menggunakan library seperti Glide atau Picasso, yang menyederhanakan dan mengoptimalkan pengambilan dan tampilan gambar.
+
+
+
 
 ## 6. Desain User Experience dan User Interface
 ![alt text](https://github.com/Adithyaraihan/PENGENALAN-IF/blob/main/Picture/inimi.png)
