@@ -90,7 +90,7 @@
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-## Peran Mesin Komputasi dalam Produk Saya
+### Peran Mesin Komputasi dalam Produk Saya
 
 1. **Pemrosesan Audio**
    Mesin komputasi bertanggung jawab atas pemrosesan file audio yang dimainkan oleh pengguna, termasuk peningkatan kualitas suara dan audio.
@@ -113,7 +113,7 @@
 7. **Pembaruan Aplikasi**
    Mesin komputasi digunakan untuk mengelola pembaruan perangkat lunak aplikasi, sehingga pengguna dapat mendapatkan fitur-fitur terbaru dan perbaikan keamanan.
 
-## Peran Sistem Operasi dalam Aplikasi
+### Peran Sistem Operasi dalam Aplikasi
 
 1. **Manajemen Sumber Daya Perangkat Keras**
    Sistem operasi memainkan peran penting dalam mengelola sumber daya perangkat keras, termasuk CPU, RAM, perangkat penyimpanan, jaringan, dan perangkat input/output.
