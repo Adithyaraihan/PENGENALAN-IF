@@ -87,6 +87,7 @@
 
 
 ## 7. Demonstrasi Video
+https://youtu.be/NzytF4-2IWI?si=QIZsrQc5kGw-Bi3O
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
